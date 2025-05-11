@@ -1,0 +1,290 @@
+{"event": "HomeworkAI initialized successfully", "timestamp": "2025-05-11T12:07:55.670392Z", "level": "info"}
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+{"event": "HomeworkAI initialized successfully", "timestamp": "2025-05-11T12:07:56.527767Z", "level": "info"}
+ * Debugger is active!
+ * Debugger PIN: 132-750-390
+127.0.0.1 - - [11/May/2025 17:38:02] "[35m[1mGET / HTTP/1.1[0m" 500 -
+127.0.0.1 - - [11/May/2025 17:38:02] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [11/May/2025 17:38:02] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [11/May/2025 17:38:02] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=JmcjxcZ4Wzq7Fcs4Y9g0 HTTP/1.1" 200 -
+127.0.0.1 - - [11/May/2025 17:38:03] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ * Detected change in '/home/jasvinder-singh/Documents/Homework.AI/backend/handlers/routes.py', reloading
+ * Restarting with stat
+{"event": "HomeworkAI initialized successfully", "timestamp": "2025-05-11T12:08:51.752764Z", "level": "info"}
+ * Debugger is active!
+ * Debugger PIN: 132-750-390
+ * Detected change in '/home/jasvinder-singh/Documents/Homework.AI/backend/handlers/routes.py', reloading
+ * Restarting with stat
+{"event": "HomeworkAI initialized successfully", "timestamp": "2025-05-11T12:08:53.851130Z", "level": "info"}
+ * Debugger is active!
+ * Debugger PIN: 132-750-390
+ * Detected change in '/home/jasvinder-singh/Documents/Homework.AI/backend/handlers/routes.py', reloading
+ * Restarting with stat
+{"event": "HomeworkAI initialized successfully", "timestamp": "2025-05-11T12:09:42.267148Z", "level": "info"}
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+{"event": "HomeworkAI initialized successfully", "timestamp": "2025-05-11T12:09:43.158971Z", "level": "info"}
+ * Debugger is active!
+ * Debugger PIN: 132-750-390
+127.0.0.1 - - [11/May/2025 17:39:45] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [11/May/2025 17:39:45] "GET /static/styles/styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [11/May/2025 17:39:45] "GET /static/scripts/scripts.js HTTP/1.1" 200 -
+127.0.0.1 - - [11/May/2025 17:39:46] "GET /static/images/favicon.png HTTP/1.1" 200 -
+127.0.0.1 - - [11/May/2025 17:39:54] "[33mGET /health HTTP/1.1[0m" 404 -
+127.0.0.1 - - [11/May/2025 17:39:54] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+127.0.0.1 - - [11/May/2025 17:40:05] "GET /api/health HTTP/1.1" 200 -
+{"event": "HomeworkAI initialized successfully", "timestamp": "2025-05-11T12:10:13.304367Z", "level": "info"}
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+{"event": "HomeworkAI initialized successfully", "timestamp": "2025-05-11T12:10:14.138297Z", "level": "info"}
+ * Debugger is active!
+ * Debugger PIN: 132-750-390
+127.0.0.1 - - [11/May/2025 17:41:33] "[33mGET /swagger/ HTTP/1.1[0m" 404 -
+127.0.0.1 - - [11/May/2025 17:44:25] "[33mGET /swagger/ HTTP/1.1[0m" 404 -
+127.0.0.1 - - [11/May/2025 17:44:25] "GET /api/health HTTP/1.1" 200 -
+127.0.0.1 - - [11/May/2025 17:44:41] "[33mGET /swagger/ HTTP/1.1[0m" 404 -
+127.0.0.1 - - [11/May/2025 17:44:41] "GET /api/health HTTP/1.1" 200 -
+ * Detected change in '/home/jasvinder-singh/Documents/Homework.AI/backend/handlers/routes.py', reloading
+ * Restarting with stat
+{"event": "HomeworkAI initialized successfully", "timestamp": "2025-05-11T12:16:14.202424Z", "level": "info"}
+ * Debugger is active!
+ * Debugger PIN: 132-750-390
+ * Detected change in '/home/jasvinder-singh/Documents/Homework.AI/backend/handlers/routes.py', reloading
+ * Restarting with stat
+{"event": "HomeworkAI initialized successfully", "timestamp": "2025-05-11T12:17:05.283960Z", "level": "info"}
+ * Debugger is active!
+ * Debugger PIN: 132-750-390
+ * Detected change in '/home/jasvinder-singh/Documents/Homework.AI/backend/modules/session_manager.py', reloading
+ * Restarting with stat
+{"event": "HomeworkAI initialized successfully", "timestamp": "2025-05-11T12:17:42.010866Z", "level": "info"}
+ * Debugger is active!
+ * Debugger PIN: 132-750-390
+ * Detected change in '/home/jasvinder-singh/Documents/Homework.AI/backend/modules/ai_provider.py', reloading
+ * Restarting with stat
+{"event": "HomeworkAI initialized successfully", "timestamp": "2025-05-11T12:19:14.811795Z", "level": "info"}
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+{"event": "HomeworkAI initialized successfully", "timestamp": "2025-05-11T12:19:15.655447Z", "level": "info"}
+ * Debugger is active!
+ * Debugger PIN: 132-750-390
+{"event": "HomeworkAI initialized successfully", "timestamp": "2025-05-11T12:19:42.865956Z", "level": "info"}
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+{"event": "HomeworkAI initialized successfully", "timestamp": "2025-05-11T12:19:43.726062Z", "level": "info"}
+ * Debugger is active!
+ * Debugger PIN: 132-750-390
+{"request_id": "53b3d1e4-f42b-41bf-8afe-9462f2fb8b0e", "session_id": "null", "event": "Fetching chat history", "timestamp": "2025-05-11T12:20:46.604748Z", "level": "info"}
+{"request_id": "53b3d1e4-f42b-41bf-8afe-9462f2fb8b0e", "session_id": "null", "event": "Invalid session ID", "timestamp": "2025-05-11T12:20:46.609555Z", "level": "warning"}
+127.0.0.1 - - [11/May/2025 17:50:46] "[33mGET /api/chat_history/null HTTP/1.1[0m" 404 -
+{"request_id": "29702e4c-2340-4c15-9542-dd32177e5483", "session_id": "92a40ed3-d59f-45a0-a013-c4b6df1950e1", "event": "Fetching chat history", "timestamp": "2025-05-11T12:20:46.638266Z", "level": "info"}
+{"request_id": "29702e4c-2340-4c15-9542-dd32177e5483", "session_id": "92a40ed3-d59f-45a0-a013-c4b6df1950e1", "event": "Invalid session ID", "timestamp": "2025-05-11T12:20:46.639566Z", "level": "warning"}
+127.0.0.1 - - [11/May/2025 17:50:46] "[33mGET /api/chat_history/92a40ed3-d59f-45a0-a013-c4b6df1950e1 HTTP/1.1[0m" 404 -
+{"request_id": "fb94f298-0f53-4f7b-bff3-da6c1b382360", "session_id": "null", "event": "Fetching chat history", "timestamp": "2025-05-11T12:20:46.658546Z", "level": "info"}
+{"request_id": "fb94f298-0f53-4f7b-bff3-da6c1b382360", "session_id": "null", "event": "Invalid session ID", "timestamp": "2025-05-11T12:20:46.658814Z", "level": "warning"}
+127.0.0.1 - - [11/May/2025 17:50:46] "[33mGET /api/chat_history/null HTTP/1.1[0m" 404 -
+{"request_id": "7a3e5255-ed0e-4ccd-b124-f4d2aea5de86", "event": "Processing generate_answer request", "timestamp": "2025-05-11T12:21:43.356560Z", "level": "info"}
+{"session_id": "eff01e3a-4434-40a2-a7e7-5a59ea7d3bfb", "event": "Started new session", "timestamp": "2025-05-11T12:21:43.357283Z", "level": "info"}
+{"session_id": "eff01e3a-4434-40a2-a7e7-5a59ea7d3bfb", "request_id": "7a3e5255-ed0e-4ccd-b124-f4d2aea5de86", "event": "Created new session", "timestamp": "2025-05-11T12:21:43.361275Z", "level": "info"}
+{"request_id": "001a2a53-1755-4a33-a231-0ce5ec662b80", "session_id": "eff01e3a-4434-40a2-a7e7-5a59ea7d3bfb", "question": "hi", "event": "Processing question", "timestamp": "2025-05-11T12:21:43.362044Z", "level": "info"}
+{"request_id": "001a2a53-1755-4a33-a231-0ce5ec662b80", "session_id": "eff01e3a-4434-40a2-a7e7-5a59ea7d3bfb", "event": "Generated response successfully", "timestamp": "2025-05-11T12:21:46.332747Z", "level": "info"}
+{"response": {"greeting": "Hey there! It's great to hear from you \ud83d\ude0a", "question_type": "general", "solution_steps": [], "final_answer": "How can I assist you with your homework today?", "difficulty_level": null, "closing_note": "I'm here to help with any question, big or small. What's on your mind? \ud83c\udf1f", "request_id": "001a2a53-1755-4a33-a231-0ce5ec662b80", "session_id": "eff01e3a-4434-40a2-a7e7-5a59ea7d3bfb"}, "request_id": "7a3e5255-ed0e-4ccd-b124-f4d2aea5de86", "event": "message sent by AI", "timestamp": "2025-05-11T12:21:46.333101Z", "level": "info"}
+127.0.0.1 - - [11/May/2025 17:51:46] "POST /api/generate_answer HTTP/1.1" 200 -
+{"request_id": "12341f46-c740-49f4-9b7e-876c9344729a", "session_id": "eff01e3a-4434-40a2-a7e7-5a59ea7d3bfb", "event": "Fetching chat history", "timestamp": "2025-05-11T12:21:46.380758Z", "level": "info"}
+127.0.0.1 - - [11/May/2025 17:51:46] "GET /api/chat_history/eff01e3a-4434-40a2-a7e7-5a59ea7d3bfb HTTP/1.1" 200 -
+{"request_id": "0cbc6459-ea2e-47cb-8766-2502382a400d", "event": "Processing generate_answer request", "timestamp": "2025-05-11T12:22:11.623600Z", "level": "info"}
+{"request_id": "020d2e43-62c3-4370-a59f-e29a4667d73e", "session_id": "eff01e3a-4434-40a2-a7e7-5a59ea7d3bfb", "question": "1. What is computer architecture? a) set of catego", "event": "Processing question", "timestamp": "2025-05-11T12:22:11.624129Z", "level": "info"}
+{"request_id": "020d2e43-62c3-4370-a59f-e29a4667d73e", "session_id": "eff01e3a-4434-40a2-a7e7-5a59ea7d3bfb", "event": "Generated response successfully", "timestamp": "2025-05-11T12:22:13.784850Z", "level": "info"}
+{"response": {"greeting": "Hello! Let's explore this computer science question together \ud83d\udcbb", "question_type": "multiple-choice", "solution_steps": ["Computer architecture involves the design and organization of computer systems.", "Option a is close, but 'categories' is not the most accurate term.", "Option b uses 'principles,' which better reflects the fundamental nature of computer architecture.", "Option c replaces 'categories' or 'principles' with 'functions,' which doesn't fully capture the scope.", "Therefore, the best answer is option b."], "final_answer": "The correct answer is b) set of principles and methods that specify the functioning, organisation, and implementation of computer systems", "difficulty_level": "Medium", "closing_note": "Great job! Understanding computer architecture is key to building efficient systems. Keep it up! \ud83d\ude80", "request_id": "020d2e43-62c3-4370-a59f-e29a4667d73e", "session_id": "eff01e3a-4434-40a2-a7e7-5a59ea7d3bfb"}, "request_id": "0cbc6459-ea2e-47cb-8766-2502382a400d", "event": "message sent by AI", "timestamp": "2025-05-11T12:22:13.785190Z", "level": "info"}
+127.0.0.1 - - [11/May/2025 17:52:13] "POST /api/generate_answer HTTP/1.1" 200 -
+{"request_id": "10a7496f-ab3a-4d5e-9e01-fa7e9914dfb8", "event": "Processing generate_answer request", "timestamp": "2025-05-11T12:22:26.146243Z", "level": "info"}
+{"request_id": "2d53359c-2419-451d-8f77-322e5aa867cd", "session_id": "eff01e3a-4434-40a2-a7e7-5a59ea7d3bfb", "question": "please explain more in detail", "event": "Processing question", "timestamp": "2025-05-11T12:22:26.146777Z", "level": "info"}
+{"request_id": "2d53359c-2419-451d-8f77-322e5aa867cd", "session_id": "eff01e3a-4434-40a2-a7e7-5a59ea7d3bfb", "event": "Generated response successfully", "timestamp": "2025-05-11T12:22:31.051918Z", "level": "info"}
+{"response": {"greeting": "You got it! Let's dive deeper into computer architecture. \ud83d\udca1", "question_type": "explanation", "solution_steps": ["**Computer Architecture: The Blueprint of a Computer System**", "Think of computer architecture as the blueprint for constructing a building (the computer system). It doesn't deal with the physical materials directly (that's computer *organization*), but rather it specifies *how* those materials should be arranged and *what principles* govern their interaction.", "**Key Aspects of Computer Architecture:**", "1. **Instruction Set Architecture (ISA):** This is the language the processor understands. It defines the instructions a programmer can use. Think of it as the vocabulary and grammar the computer follows. Examples: x86, ARM.", "2. **Organization:** This refers to the physical components and how they interconnect. It includes things like the CPU, memory, I/O controllers, and the buses that connect them. It's the 'how' the architectural specifications are implemented.", "3. **Implementation:** This is the actual hardware technology used. For example, is the CPU built with transistors of a specific size? How are the caches implemented? This level is closest to the actual physics.", "4. **Functioning:** How the different parts of the computer work together. For example, how the CPU fetches instructions from memory, decodes them, and executes them.", "5. **Principles:** The guiding concepts in the design. Performance, power efficiency, cost, and reliability are common driving principles.", "6. **Methods:**  The techniques used to achieve the architectural goals.  Pipelining, caching, and parallel processing are examples.", "**Why is it important?**", "* **Performance:** A well-designed architecture is crucial for achieving high performance.", "* **Compatibility:** Architecture defines compatibility. Programs written for one architecture may not run on another without modification.", "* **Innovation:** Architectural innovations (like out-of-order execution) have led to significant performance improvements over the years.", "**Relationship to Computer Organization:**", "It's helpful to differentiate computer architecture from computer organization.", "* **Architecture:** What the programmer sees (the ISA, memory model, etc.)", "* **Organization:** How those architectural specifications are realized. You can have different organizations that implement the *same* architecture.", "**Example:** The x86 architecture has been around for decades.  Different manufacturers (Intel, AMD) have created vastly different *organizations* to implement the same x86 *architecture*."], "final_answer": "In summary, computer architecture is about the fundamental *principles* and *methods* that dictate how a computer system should function, be organized, and implemented. It's the abstract blueprint that guides the construction of the actual hardware.", "difficulty_level": "Medium", "closing_note": "I hope this detailed explanation helps!  Let me know if you'd like to explore any specific aspect further. \ud83d\ude80", "request_id": "2d53359c-2419-451d-8f77-322e5aa867cd", "session_id": "eff01e3a-4434-40a2-a7e7-5a59ea7d3bfb"}, "request_id": "10a7496f-ab3a-4d5e-9e01-fa7e9914dfb8", "event": "message sent by AI", "timestamp": "2025-05-11T12:22:31.052277Z", "level": "info"}
+127.0.0.1 - - [11/May/2025 17:52:31] "POST /api/generate_answer HTTP/1.1" 200 -
+{"request_id": "c5dc0e13-16f8-4b0a-a61a-887c3fbb40ef", "session_id": "null", "event": "Fetching chat history", "timestamp": "2025-05-11T12:23:02.620682Z", "level": "info"}
+{"request_id": "c5dc0e13-16f8-4b0a-a61a-887c3fbb40ef", "session_id": "null", "event": "Invalid session ID", "timestamp": "2025-05-11T12:23:02.620953Z", "level": "warning"}
+127.0.0.1 - - [11/May/2025 17:53:02] "[33mGET /api/chat_history/null HTTP/1.1[0m" 404 -
+{"request_id": "8c9a38fb-07cf-4958-9b8b-1d9505d29eb7", "session_id": "eff01e3a-4434-40a2-a7e7-5a59ea7d3bfb", "event": "Fetching chat history", "timestamp": "2025-05-11T12:23:02.638099Z", "level": "info"}
+127.0.0.1 - - [11/May/2025 17:53:02] "GET /api/chat_history/eff01e3a-4434-40a2-a7e7-5a59ea7d3bfb HTTP/1.1" 200 -
+{"request_id": "3a1cd95a-8061-46ec-85bf-a187480c3018", "session_id": "null", "event": "Fetching chat history", "timestamp": "2025-05-11T12:23:02.647963Z", "level": "info"}
+{"request_id": "3a1cd95a-8061-46ec-85bf-a187480c3018", "session_id": "null", "event": "Invalid session ID", "timestamp": "2025-05-11T12:23:02.649840Z", "level": "warning"}
+127.0.0.1 - - [11/May/2025 17:53:02] "[33mGET /api/chat_history/null HTTP/1.1[0m" 404 -
+{"request_id": "6065d299-340f-46cd-9909-4adbaa6b7b08", "session_id": "null", "event": "Fetching chat history", "timestamp": "2025-05-11T12:23:26.338105Z", "level": "info"}
+{"request_id": "6065d299-340f-46cd-9909-4adbaa6b7b08", "session_id": "null", "event": "Invalid session ID", "timestamp": "2025-05-11T12:23:26.338358Z", "level": "warning"}
+127.0.0.1 - - [11/May/2025 17:53:26] "[33mGET /api/chat_history/null HTTP/1.1[0m" 404 -
+{"request_id": "ac303906-1adb-413b-8a4d-628aeaae6abd", "session_id": "null", "event": "Fetching chat history", "timestamp": "2025-05-11T12:23:26.353477Z", "level": "info"}
+{"request_id": "ac303906-1adb-413b-8a4d-628aeaae6abd", "session_id": "null", "event": "Invalid session ID", "timestamp": "2025-05-11T12:23:26.353826Z", "level": "warning"}
+127.0.0.1 - - [11/May/2025 17:53:26] "[33mGET /api/chat_history/null HTTP/1.1[0m" 404 -
+{"request_id": "6c5c4e1a-6506-40d9-8e3d-0ff3cdf4536f", "session_id": "eff01e3a-4434-40a2-a7e7-5a59ea7d3bfb", "event": "Fetching chat history", "timestamp": "2025-05-11T12:23:26.373573Z", "level": "info"}
+127.0.0.1 - - [11/May/2025 17:53:26] "GET /api/chat_history/eff01e3a-4434-40a2-a7e7-5a59ea7d3bfb HTTP/1.1" 200 -
+{"request_id": "44952c8e-dc6a-4ab1-bbf1-a6f36d8ad081", "session_id": "null", "event": "Fetching chat history", "timestamp": "2025-05-11T12:23:39.020022Z", "level": "info"}
+{"request_id": "44952c8e-dc6a-4ab1-bbf1-a6f36d8ad081", "session_id": "null", "event": "Invalid session ID", "timestamp": "2025-05-11T12:23:39.020431Z", "level": "warning"}
+127.0.0.1 - - [11/May/2025 17:53:39] "[33mGET /api/chat_history/null HTTP/1.1[0m" 404 -
+{"request_id": "8b0d6f87-a7f9-4746-9aac-6e3d71ec8228", "session_id": "null", "event": "Fetching chat history", "timestamp": "2025-05-11T12:23:39.025873Z", "level": "info"}
+{"request_id": "8b0d6f87-a7f9-4746-9aac-6e3d71ec8228", "session_id": "null", "event": "Invalid session ID", "timestamp": "2025-05-11T12:23:39.026847Z", "level": "warning"}
+127.0.0.1 - - [11/May/2025 17:53:39] "[33mGET /api/chat_history/null HTTP/1.1[0m" 404 -
+{"request_id": "a77075c7-8ea6-4660-989b-1c334f611889", "session_id": "eff01e3a-4434-40a2-a7e7-5a59ea7d3bfb", "event": "Fetching chat history", "timestamp": "2025-05-11T12:23:39.032251Z", "level": "info"}
+127.0.0.1 - - [11/May/2025 17:53:39] "GET /api/chat_history/eff01e3a-4434-40a2-a7e7-5a59ea7d3bfb HTTP/1.1" 200 -
+{"request_id": "bc0882a3-6d4c-41a3-8cc9-f94582229283", "event": "Processing generate_answer request", "timestamp": "2025-05-11T12:24:22.679667Z", "level": "info"}
+{"session_id": "eb32fec0-a282-43fd-afd6-84459ca68577", "event": "Started new session", "timestamp": "2025-05-11T12:24:22.680070Z", "level": "info"}
+{"session_id": "eb32fec0-a282-43fd-afd6-84459ca68577", "request_id": "bc0882a3-6d4c-41a3-8cc9-f94582229283", "event": "Created new session", "timestamp": "2025-05-11T12:24:22.680186Z", "level": "info"}
+{"request_id": "d34d8c62-222a-4753-a65d-31ddec8c7ffd", "session_id": "eb32fec0-a282-43fd-afd6-84459ca68577", "question": "2. What is computer organization?\n\na) structure an", "event": "Processing question", "timestamp": "2025-05-11T12:24:22.680297Z", "level": "info"}
+{"request_id": "d34d8c62-222a-4753-a65d-31ddec8c7ffd", "session_id": "eb32fec0-a282-43fd-afd6-84459ca68577", "event": "Generated response successfully", "timestamp": "2025-05-11T12:24:25.502089Z", "level": "info"}
+{"response": {"greeting": "Hello! Let's tackle this computer science question together \ud83d\udda5\ufe0f", "question_type": "multiple-choice", "solution_steps": ["Computer architecture deals with the attributes of a system visible to a programmer, such as the instruction set, number of bits used for data representation, addressing techniques, etc.", "Computer organization deals with the hardware components of a computer system and how they interconnect to realize the architectural specification.", "Option a) structure and behaviour of a computer system as observed by the user refers more to computer architecture, since users typically interact with the software and overall system behavior rather than internal organization.", "Option b) structure of a computer system as observed by the developer is partially correct, but it doesn't include the behavior of the system which is part of computer organization.", "Option c) structure and behaviour of a computer system as observed by the developer best describes computer organization because developers work with the hardware and its behavior."], "final_answer": "The correct answer is c) structure and behaviour of a computer system as observed by the developer.", "difficulty_level": "Medium", "closing_note": "Great job! Understanding computer organization is key to mastering computer systems. Keep up the great work! \ud83d\udcbb", "request_id": "d34d8c62-222a-4753-a65d-31ddec8c7ffd", "session_id": "eb32fec0-a282-43fd-afd6-84459ca68577"}, "request_id": "bc0882a3-6d4c-41a3-8cc9-f94582229283", "event": "message sent by AI", "timestamp": "2025-05-11T12:24:25.502441Z", "level": "info"}
+127.0.0.1 - - [11/May/2025 17:54:25] "POST /api/generate_answer HTTP/1.1" 200 -
+{"request_id": "8ba89e7f-65f1-499d-883f-3cd41bb69396", "session_id": "eb32fec0-a282-43fd-afd6-84459ca68577", "event": "Fetching chat history", "timestamp": "2025-05-11T12:24:25.553800Z", "level": "info"}
+127.0.0.1 - - [11/May/2025 17:54:25] "GET /api/chat_history/eb32fec0-a282-43fd-afd6-84459ca68577 HTTP/1.1" 200 -
+{"event": "HomeworkAI initialized successfully", "timestamp": "2025-05-11T12:26:41.601302Z", "level": "info"}
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+{"event": "HomeworkAI initialized successfully", "timestamp": "2025-05-11T12:26:42.509801Z", "level": "info"}
+ * Debugger is active!
+ * Debugger PIN: 132-750-390
+{"event": "HomeworkAI initialized successfully", "timestamp": "2025-05-11T12:36:24.278801Z", "level": "info"}
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+{"event": "HomeworkAI initialized successfully", "timestamp": "2025-05-11T12:36:25.368686Z", "level": "info"}
+ * Debugger is active!
+ * Debugger PIN: 132-750-390
+{"request_id": "eec8d2a7-4288-41f6-ba83-ac993772cbf1", "session_id": "null", "event": "Fetching chat history", "timestamp": "2025-05-11T12:36:26.909573Z", "level": "info"}
+{"request_id": "eec8d2a7-4288-41f6-ba83-ac993772cbf1", "session_id": "null", "event": "Invalid session ID", "timestamp": "2025-05-11T12:36:26.909863Z", "level": "warning"}
+127.0.0.1 - - [11/May/2025 18:06:26] "[33mGET /api/chat_history/null HTTP/1.1[0m" 404 -
+{"request_id": "40e379ea-94a6-4838-93c9-d22f02958465", "session_id": "450f0db8-9dba-41ce-8687-6ae99629cd39", "event": "Fetching chat history", "timestamp": "2025-05-11T12:36:26.919954Z", "level": "info"}
+{"request_id": "40e379ea-94a6-4838-93c9-d22f02958465", "session_id": "450f0db8-9dba-41ce-8687-6ae99629cd39", "event": "Invalid session ID", "timestamp": "2025-05-11T12:36:26.920197Z", "level": "warning"}
+127.0.0.1 - - [11/May/2025 18:06:26] "[33mGET /api/chat_history/450f0db8-9dba-41ce-8687-6ae99629cd39 HTTP/1.1[0m" 404 -
+{"request_id": "d72d4934-e77a-45b0-8273-4612b2b6d4d7", "session_id": "null", "event": "Fetching chat history", "timestamp": "2025-05-11T12:36:26.921887Z", "level": "info"}
+{"request_id": "d72d4934-e77a-45b0-8273-4612b2b6d4d7", "session_id": "null", "event": "Invalid session ID", "timestamp": "2025-05-11T12:36:26.922118Z", "level": "warning"}
+127.0.0.1 - - [11/May/2025 18:06:26] "[33mGET /api/chat_history/null HTTP/1.1[0m" 404 -
+127.0.0.1 - - [11/May/2025 18:06:31] "OPTIONS /api/generate_answer HTTP/1.1" 200 -
+ * Detected change in '/home/jasvinder-singh/Documents/Homework.AI/backend/app.py', reloading
+ * Restarting with stat
+{"event": "HomeworkAI initialized successfully", "timestamp": "2025-05-11T12:37:02.177869Z", "level": "info"}
+ * Debugger is active!
+ * Debugger PIN: 132-750-390
+127.0.0.1 - - [11/May/2025 18:07:23] "[33mGET /swagger/ HTTP/1.1[0m" 404 -
+127.0.0.1 - - [11/May/2025 18:07:23] "GET /api/health HTTP/1.1" 200 -
+ * Detected change in '/home/jasvinder-singh/Documents/Homework.AI/backend/app.py', reloading
+ * Restarting with stat
+{"event": "HomeworkAI initialized successfully", "timestamp": "2025-05-11T12:38:01.876972Z", "level": "info"}
+ * Debugger is active!
+ * Debugger PIN: 132-750-390
+{"request_id": "bd3cf1bd-7cd9-41ed-8099-dc37ee5b3d94", "session_id": "null", "event": "Fetching chat history", "timestamp": "2025-05-11T12:38:05.405562Z", "level": "info"}
+{"request_id": "fd5152ca-6be0-46ed-ab39-1af9e42aa49d", "session_id": "450f0db8-9dba-41ce-8687-6ae99629cd39", "event": "Fetching chat history", "timestamp": "2025-05-11T12:38:05.406916Z", "level": "info"}
+{"request_id": "bd3cf1bd-7cd9-41ed-8099-dc37ee5b3d94", "session_id": "null", "event": "Invalid session ID", "timestamp": "2025-05-11T12:38:05.408227Z", "level": "warning"}
+{"request_id": "fd5152ca-6be0-46ed-ab39-1af9e42aa49d", "session_id": "450f0db8-9dba-41ce-8687-6ae99629cd39", "event": "Invalid session ID", "timestamp": "2025-05-11T12:38:05.408667Z", "level": "warning"}
+127.0.0.1 - - [11/May/2025 18:08:05] "[33mGET /api/chat_history/null HTTP/1.1[0m" 404 -
+127.0.0.1 - - [11/May/2025 18:08:05] "[33mGET /api/chat_history/450f0db8-9dba-41ce-8687-6ae99629cd39 HTTP/1.1[0m" 404 -
+{"request_id": "63fcfa39-7a40-4439-9817-7d8c26b7740c", "session_id": "null", "event": "Fetching chat history", "timestamp": "2025-05-11T12:38:05.419392Z", "level": "info"}
+{"request_id": "63fcfa39-7a40-4439-9817-7d8c26b7740c", "session_id": "null", "event": "Invalid session ID", "timestamp": "2025-05-11T12:38:05.419625Z", "level": "warning"}
+127.0.0.1 - - [11/May/2025 18:08:05] "[33mGET /api/chat_history/null HTTP/1.1[0m" 404 -
+127.0.0.1 - - [11/May/2025 18:08:13] "OPTIONS /api/generate_answer HTTP/1.1" 200 -
+127.0.0.1 - - [11/May/2025 18:11:01] "OPTIONS /api/generate_answer HTTP/1.1" 200 -
+127.0.0.1 - - [11/May/2025 18:11:17] "OPTIONS /api/generate_answer HTTP/1.1" 200 -
+127.0.0.1 - - [11/May/2025 18:11:21] "[31m[1mGET /api/generate_answer HTTP/1.1[0m" 405 -
+ * Detected change in '/home/jasvinder-singh/Documents/Homework.AI/backend/app.py', reloading
+ * Restarting with stat
+{"event": "HomeworkAI initialized successfully", "timestamp": "2025-05-11T12:43:03.344530Z", "level": "info"}
+ * Debugger is active!
+ * Debugger PIN: 132-750-390
+ * Detected change in '/home/jasvinder-singh/Documents/Homework.AI/backend/app.py', reloading
+ * Restarting with stat
+{"event": "HomeworkAI initialized successfully", "timestamp": "2025-05-11T12:43:13.936008Z", "level": "info"}
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+{"event": "HomeworkAI initialized successfully", "timestamp": "2025-05-11T12:43:14.823716Z", "level": "info"}
+ * Debugger is active!
+ * Debugger PIN: 132-750-390
+127.0.0.1 - - [11/May/2025 18:13:17] "[33mGET /swagger/ HTTP/1.1[0m" 404 -
+{"request_id": "9041011c-153f-478c-b5b8-efe4c08f79e1", "session_id": "null", "event": "Fetching chat history", "timestamp": "2025-05-11T12:43:24.586676Z", "level": "info"}
+{"request_id": "9041011c-153f-478c-b5b8-efe4c08f79e1", "session_id": "null", "event": "Invalid session ID", "timestamp": "2025-05-11T12:43:24.587109Z", "level": "warning"}
+127.0.0.1 - - [11/May/2025 18:13:24] "[33mGET /api/chat_history/null HTTP/1.1[0m" 404 -
+{"request_id": "55b8fba5-c2a5-4fce-9f02-b145f5c4a66c", "session_id": "null", "event": "Fetching chat history", "timestamp": "2025-05-11T12:43:24.602786Z", "level": "info"}
+{"request_id": "55b8fba5-c2a5-4fce-9f02-b145f5c4a66c", "session_id": "null", "event": "Invalid session ID", "timestamp": "2025-05-11T12:43:24.603152Z", "level": "warning"}
+127.0.0.1 - - [11/May/2025 18:13:24] "[33mGET /api/chat_history/null HTTP/1.1[0m" 404 -
+{"request_id": "ecdea1b9-58e5-443e-8163-a3bd1373de47", "session_id": "450f0db8-9dba-41ce-8687-6ae99629cd39", "event": "Fetching chat history", "timestamp": "2025-05-11T12:43:24.613948Z", "level": "info"}
+{"request_id": "ecdea1b9-58e5-443e-8163-a3bd1373de47", "session_id": "450f0db8-9dba-41ce-8687-6ae99629cd39", "event": "Invalid session ID", "timestamp": "2025-05-11T12:43:24.616100Z", "level": "warning"}
+127.0.0.1 - - [11/May/2025 18:13:24] "[33mGET /api/chat_history/450f0db8-9dba-41ce-8687-6ae99629cd39 HTTP/1.1[0m" 404 -
+127.0.0.1 - - [11/May/2025 18:13:31] "OPTIONS /api/generate_answer HTTP/1.1" 200 -
+{"request_id": "55e1978b-ecbd-4cb3-8432-4377971d2591", "event": "Processing generate_answer request", "timestamp": "2025-05-11T12:43:31.300278Z", "level": "info"}
+{"session_id": "c18c59ff-7768-4a86-b770-ee056fe1790c", "event": "Started new session", "timestamp": "2025-05-11T12:43:31.301738Z", "level": "info"}
+{"session_id": "c18c59ff-7768-4a86-b770-ee056fe1790c", "request_id": "55e1978b-ecbd-4cb3-8432-4377971d2591", "event": "Created new session", "timestamp": "2025-05-11T12:43:31.301892Z", "level": "info"}
+{"request_id": "3268391b-4911-490a-87f9-8a07bd6e2eca", "session_id": "c18c59ff-7768-4a86-b770-ee056fe1790c", "question": "6. Which of the architecture is power efficient?\na", "event": "Processing question", "timestamp": "2025-05-11T12:43:31.302004Z", "level": "info"}
+{"request_id": "3268391b-4911-490a-87f9-8a07bd6e2eca", "session_id": "c18c59ff-7768-4a86-b770-ee056fe1790c", "event": "Generated response successfully", "timestamp": "2025-05-11T12:43:35.337714Z", "level": "info"}
+{"response": {"greeting": "Hello! Let's explore this computer architecture question together \ud83d\udcbb", "question_type": "multiple-choice", "solution_steps": ["RISC (Reduced Instruction Set Computing) architecture uses a smaller set of simpler instructions, which typically requires fewer transistors and less power.", "CISC (Complex Instruction Set Computing) architecture uses a larger set of complex instructions, which can require more transistors and more power.", "ISA (Instruction Set Architecture) is a general term for the architecture of a processor, and IANA (Internet Assigned Numbers Authority) is related to internet protocols, not processor architecture.", "Therefore, RISC is generally more power-efficient than CISC."], "final_answer": "The power-efficient architecture is a) RISC.", "difficulty_level": "Medium", "closing_note": "Great question! Understanding different architectures is key. Keep up the good work! \ud83d\ude80", "request_id": "3268391b-4911-490a-87f9-8a07bd6e2eca", "session_id": "c18c59ff-7768-4a86-b770-ee056fe1790c"}, "request_id": "55e1978b-ecbd-4cb3-8432-4377971d2591", "event": "message sent by AI", "timestamp": "2025-05-11T12:43:35.338067Z", "level": "info"}
+127.0.0.1 - - [11/May/2025 18:13:35] "POST /api/generate_answer HTTP/1.1" 200 -
+{"event": "HomeworkAI initialized successfully", "timestamp": "2025-05-11T13:18:57.742290Z", "level": "info"}
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+{"event": "HomeworkAI initialized successfully", "timestamp": "2025-05-11T13:18:58.710754Z", "level": "info"}
+ * Debugger is active!
+ * Debugger PIN: 132-750-390
+{"request_id": "680128ec-597a-4dbc-9ed7-785bf5ba5ef4", "session_id": "null", "event": "Fetching chat history", "timestamp": "2025-05-11T13:20:03.240592Z", "level": "info"}
+{"request_id": "680128ec-597a-4dbc-9ed7-785bf5ba5ef4", "session_id": "null", "event": "Invalid session ID", "timestamp": "2025-05-11T13:20:03.240940Z", "level": "warning"}
+127.0.0.1 - - [11/May/2025 18:50:03] "[33mGET /api/chat_history/null HTTP/1.1[0m" 404 -
+{"request_id": "608a4bca-4927-4c75-b8f6-83249780ebf4", "session_id": "c18c59ff-7768-4a86-b770-ee056fe1790c", "event": "Fetching chat history", "timestamp": "2025-05-11T13:20:03.305524Z", "level": "info"}
+{"request_id": "608a4bca-4927-4c75-b8f6-83249780ebf4", "session_id": "c18c59ff-7768-4a86-b770-ee056fe1790c", "event": "Invalid session ID", "timestamp": "2025-05-11T13:20:03.305907Z", "level": "warning"}
+127.0.0.1 - - [11/May/2025 18:50:03] "[33mGET /api/chat_history/c18c59ff-7768-4a86-b770-ee056fe1790c HTTP/1.1[0m" 404 -
+{"request_id": "fadb2658-5a39-4bf2-bd4d-6b5351ecad67", "session_id": "null", "event": "Fetching chat history", "timestamp": "2025-05-11T13:20:03.598346Z", "level": "info"}
+{"request_id": "fadb2658-5a39-4bf2-bd4d-6b5351ecad67", "session_id": "null", "event": "Invalid session ID", "timestamp": "2025-05-11T13:20:03.598567Z", "level": "warning"}
+127.0.0.1 - - [11/May/2025 18:50:03] "[33mGET /api/chat_history/null HTTP/1.1[0m" 404 -
+127.0.0.1 - - [11/May/2025 18:50:12] "OPTIONS /api/generate_answer HTTP/1.1" 200 -
+{"request_id": "a72a0f2c-841d-41f1-8d71-de8cb77a6032", "event": "Processing generate_answer request", "timestamp": "2025-05-11T13:20:12.121786Z", "level": "info"}
+{"session_id": "56e8b018-8c0e-4dba-b93c-196611441d14", "event": "Started new session", "timestamp": "2025-05-11T13:20:12.122490Z", "level": "info"}
+{"session_id": "56e8b018-8c0e-4dba-b93c-196611441d14", "request_id": "a72a0f2c-841d-41f1-8d71-de8cb77a6032", "event": "Created new session", "timestamp": "2025-05-11T13:20:12.122695Z", "level": "info"}
+{"request_id": "94f5c7e0-f37e-4c0b-9a9a-a3e98f8c7132", "session_id": "56e8b018-8c0e-4dba-b93c-196611441d14", "question": "4. Which of the following is a type of architectur", "event": "Processing question", "timestamp": "2025-05-11T13:20:12.122889Z", "level": "info"}
+{"request_id": "94f5c7e0-f37e-4c0b-9a9a-a3e98f8c7132", "session_id": "56e8b018-8c0e-4dba-b93c-196611441d14", "event": "Generated response successfully", "timestamp": "2025-05-11T13:20:16.745040Z", "level": "info"}
+{"response": {"greeting": "Hi! Let's break down this computer architecture question together \ud83d\udcbb", "question_type": "multiple-choice", "solution_steps": ["Microarchitecture refers to the detailed implementation of a specific architecture, not an architecture type itself.", "Harvard Architecture uses separate storage and signal pathways for instructions and data. It's used in some specialized processors but not universally in modern computers.", "Von-Neumann Architecture is the most common computer architecture where instructions and data share the same memory space. Most computers today are based on this.", "System Design is a general term referring to the overall design of a computer system, not a specific architectural type."], "final_answer": "The correct answer is c) Von-Neumann Architecture, as it is the most widely used architecture in computers nowadays.", "difficulty_level": "Medium", "closing_note": "Great job! Keep exploring the fascinating world of computer architecture! \ud83d\ude80", "request_id": "94f5c7e0-f37e-4c0b-9a9a-a3e98f8c7132", "session_id": "56e8b018-8c0e-4dba-b93c-196611441d14"}, "request_id": "a72a0f2c-841d-41f1-8d71-de8cb77a6032", "event": "message sent by AI", "timestamp": "2025-05-11T13:20:16.745374Z", "level": "info"}
+127.0.0.1 - - [11/May/2025 18:50:16] "POST /api/generate_answer HTTP/1.1" 200 -
+{"event": "HomeworkAI initialized successfully", "timestamp": "2025-05-11T13:28:58.791101Z", "level": "info"}
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+{"event": "HomeworkAI initialized successfully", "timestamp": "2025-05-11T13:28:59.640962Z", "level": "info"}
+ * Debugger is active!
+ * Debugger PIN: 132-750-390
+{"event": "HomeworkAI initialized successfully", "timestamp": "2025-05-11T13:32:43.094602Z", "level": "info"}
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+{"event": "HomeworkAI initialized successfully", "timestamp": "2025-05-11T13:32:43.939446Z", "level": "info"}
+ * Debugger is active!
+ * Debugger PIN: 132-750-390
+{"request_id": "ea69c06f-1ef2-4973-80a7-c6196fa536f2", "session_id": "null", "event": "Fetching chat history", "timestamp": "2025-05-11T13:33:28.113723Z", "level": "info"}
+{"request_id": "ea69c06f-1ef2-4973-80a7-c6196fa536f2", "session_id": "null", "event": "Invalid session ID", "timestamp": "2025-05-11T13:33:28.114314Z", "level": "warning"}
+127.0.0.1 - - [11/May/2025 19:03:28] "[33mGET /api/chat_history/null HTTP/1.1[0m" 404 -
+{"request_id": "3b6ebb7a-a1d1-472a-8bae-0302198e9185", "session_id": "null", "event": "Fetching chat history", "timestamp": "2025-05-11T13:33:28.122697Z", "level": "info"}
+{"request_id": "3b6ebb7a-a1d1-472a-8bae-0302198e9185", "session_id": "null", "event": "Invalid session ID", "timestamp": "2025-05-11T13:33:28.123586Z", "level": "warning"}
+127.0.0.1 - - [11/May/2025 19:03:28] "[33mGET /api/chat_history/null HTTP/1.1[0m" 404 -
+{"request_id": "afe24b06-b28d-4e9a-9411-f3f8ea4b50d8", "session_id": "56e8b018-8c0e-4dba-b93c-196611441d14", "event": "Fetching chat history", "timestamp": "2025-05-11T13:33:28.279667Z", "level": "info"}
+{"request_id": "afe24b06-b28d-4e9a-9411-f3f8ea4b50d8", "session_id": "56e8b018-8c0e-4dba-b93c-196611441d14", "event": "Invalid session ID", "timestamp": "2025-05-11T13:33:28.280461Z", "level": "warning"}
+127.0.0.1 - - [11/May/2025 19:03:28] "[33mGET /api/chat_history/56e8b018-8c0e-4dba-b93c-196611441d14 HTTP/1.1[0m" 404 -
+127.0.0.1 - - [11/May/2025 19:03:36] "OPTIONS /api/generate_answer HTTP/1.1" 200 -
+{"request_id": "a6eef545-d063-4c77-9db5-3292558b4ede", "event": "Processing generate_answer request", "timestamp": "2025-05-11T13:33:36.454187Z", "level": "info"}
+{"session_id": "f107e7f3-aeb0-4059-9f09-1047b0151dba", "event": "Started new session", "timestamp": "2025-05-11T13:33:36.454745Z", "level": "info"}
+{"session_id": "f107e7f3-aeb0-4059-9f09-1047b0151dba", "request_id": "a6eef545-d063-4c77-9db5-3292558b4ede", "event": "Created new session", "timestamp": "2025-05-11T13:33:36.454894Z", "level": "info"}
+{"request_id": "32f78b2e-4fc2-4dc2-bb41-5c92cfd05a7e", "session_id": "f107e7f3-aeb0-4059-9f09-1047b0151dba", "question": "3. Which of the following Is a type of computer\nar", "event": "Processing question", "timestamp": "2025-05-11T13:33:36.455028Z", "level": "info"}
+{"request_id": "32f78b2e-4fc2-4dc2-bb41-5c92cfd05a7e", "session_id": "f107e7f3-aeb0-4059-9f09-1047b0151dba", "event": "Generated response successfully", "timestamp": "2025-05-11T13:33:39.812264Z", "level": "info"}
+{"response": {"greeting": "Hello! Let's tackle this multiple-choice question together \ud83d\ude0a", "question_type": "multiple-choice", "solution_steps": ["Microarchitecture is the detailed design and implementation of a processor.", "Harvard architecture uses separate storage and signal pathways for instructions and data.", "Von-Neumann architecture uses a single address space for both instructions and data.", "Since all the options are valid types of computer architectures, the correct answer is 'All of the mentioned'."], "final_answer": "The answer is d) All of the mentioned.", "difficulty_level": "Medium", "closing_note": "Great job! You're doing awesome. Keep up the good work! \ud83d\ude80", "request_id": "32f78b2e-4fc2-4dc2-bb41-5c92cfd05a7e", "session_id": "f107e7f3-aeb0-4059-9f09-1047b0151dba"}, "request_id": "a6eef545-d063-4c77-9db5-3292558b4ede", "event": "message sent by AI", "timestamp": "2025-05-11T13:33:39.813420Z", "level": "info"}
+127.0.0.1 - - [11/May/2025 19:03:39] "POST /api/generate_answer HTTP/1.1" 200 -
+127.0.0.1 - - [11/May/2025 19:11:32] "[31m[1mGET /api/generate_answer HTTP/1.1[0m" 405 -
