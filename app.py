@@ -8,7 +8,7 @@ from modules.rate_limiter import limiter
 from handlers.routes import configure_routes
 
 load_dotenv()
-setup_logging()
+# setup_logging()
 
 config = Config()
 config.validate()

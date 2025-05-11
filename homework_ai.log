@@ -288,3 +288,11 @@
 {"response": {"greeting": "Hello! Let's tackle this multiple-choice question together \ud83d\ude0a", "question_type": "multiple-choice", "solution_steps": ["Microarchitecture is the detailed design and implementation of a processor.", "Harvard architecture uses separate storage and signal pathways for instructions and data.", "Von-Neumann architecture uses a single address space for both instructions and data.", "Since all the options are valid types of computer architectures, the correct answer is 'All of the mentioned'."], "final_answer": "The answer is d) All of the mentioned.", "difficulty_level": "Medium", "closing_note": "Great job! You're doing awesome. Keep up the good work! \ud83d\ude80", "request_id": "32f78b2e-4fc2-4dc2-bb41-5c92cfd05a7e", "session_id": "f107e7f3-aeb0-4059-9f09-1047b0151dba"}, "request_id": "a6eef545-d063-4c77-9db5-3292558b4ede", "event": "message sent by AI", "timestamp": "2025-05-11T13:33:39.813420Z", "level": "info"}
 127.0.0.1 - - [11/May/2025 19:03:39] "POST /api/generate_answer HTTP/1.1" 200 -
 127.0.0.1 - - [11/May/2025 19:11:32] "[31m[1mGET /api/generate_answer HTTP/1.1[0m" 405 -
+{"event": "HomeworkAI initialized successfully", "timestamp": "2025-05-11T14:13:29.869338Z", "level": "info"}
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+{"event": "HomeworkAI initialized successfully", "timestamp": "2025-05-11T14:13:30.731323Z", "level": "info"}
+ * Debugger is active!
+ * Debugger PIN: 132-750-390

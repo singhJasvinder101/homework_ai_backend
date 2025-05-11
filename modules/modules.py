@@ -15,7 +15,6 @@ def content():
             '''
 
 def init_homework_ai():
-    """Initialize HomeworkAI and SessionManager."""
     setup_logging()
     config = Config()
     config.validate()
@@ -24,15 +23,12 @@ def init_homework_ai():
     return homework_ai, session_manager
 
 def start_session(homework_ai):
-    """Start a new session and return the session ID."""
     return homework_ai.start_session()
 
 def generate_response(homework_ai, session_manager, session_id, question):
-    """Generate a response for a given question and session."""
     if not session_manager.session_exists(session_id):
         session_id = homework_ai.start_session()
     return homework_ai.generate_response(session_id, question), session_id
 
 def get_chat_history(session_manager, session_id):
-    """Fetch chat history for a session."""
     return session_manager.get_all_chats(session_id)
